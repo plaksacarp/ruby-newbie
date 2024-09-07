@@ -1,5 +1,5 @@
-# Ruby Newbie: code and notes
+# Ruby Newbie: my code
 
-1 просто один
-2 всякое про ruby
-3 и всякое про git
+- Code for the course.
+- Ideas
+- Note
