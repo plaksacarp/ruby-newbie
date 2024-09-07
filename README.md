@@ -1,5 +1,5 @@
-# Ruby Newbie: my code
+# Ruby Newbie (пора)
 
-- Code for the course.
+- Code for the course (а может нет).
 - Ideas
 - Note
