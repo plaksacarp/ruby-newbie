@@ -1,5 +1,5 @@
 
-# Ruby Newbie: my code это заголовок для файла
+# Ruby Newbie: my code (эксперименты с гитом)
 
 1. - Code for the course.
 2. - Ideas
