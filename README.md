@@ -1,4 +1,4 @@
-# ruby-newbie
+# Ruby Newbie: code and notes
 
 1
 2 всякое про ruby
